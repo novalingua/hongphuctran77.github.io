@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "2420ff923161251b",
+    "type": "split",
+    "children": [
+      {
+        "id": "16ee210a1d5170a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61c369fb03fd3b2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/sample-essays/computer-games/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b03cbbf2e260b549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/sample-essays/range-of-subjects/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e4b1660d5f1ec20",
+    "type": "split",
+    "children": [
+      {
+        "id": "040d855d019eb7cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a93c900852083e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01ace85a08fa9b9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb9fd8b5a0a11c7e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ea9d661a3f7d6bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa95af7df4860060",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f13a90901aea8e77",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/sample-essays/range-of-subjects/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db20b90e2cfb01f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/sample-essays/range-of-subjects/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "349751208d92c489",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "64b9cbfabc8bd6d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/sample-essays/range-of-subjects/index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b03cbbf2e260b549",
+  "lastOpenFiles": [
+    "posts/adverbs-conjunctions-academic-writing/index.md",
+    "posts/adverbs-conjunctions-academic-writing/feature.jpg",
+    "posts/sample-essays/range-of-subjects/index.md",
+    "posts/sample-essays/recycling-waste/index.md",
+    "posts/sample-essays/computer-games/index.md",
+    "posts/english-basics/peel-method/index.md",
+    "posts/sample-essays/phone-effects-reading-writing-skills/index.md",
+    "posts/sample-essays/promoting-sports-and-art/index.md",
+    "posts/sample-essays/reading-vs-tv/index.md",
+    "posts/sample-essays/recycling-waste.md"
+  ]
+}
