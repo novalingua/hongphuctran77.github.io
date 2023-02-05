@@ -18,6 +18,6 @@ Computer games, like everything else, have many downsides, especially for childr
 
 However, computer games may also bring benefits to the development of children. Various studies were able to measure a considerable increase in <mark>hand-eye coordination</mark> in children who spend at least some of their time playing video games compared to their peers who don't play at all. Some games, such as strategy or puzzle games, can even teach children critical thinking and forward planning. Needless to say, these are beneficial skills and traits that can help children blossom and develop. Therefore, it can be concluded that there are also physical and mental benefits of computer games that can <mark>positively contribute to</mark> children's growth.
 
-In conclusion, while there are undoubtedly many potential problems that computer games can cause, they mainly <mark>stem from</mark> excessive and uncontrolled gaming. On the other hand, choosing the right games and playing them <mark>in moderation</mark> can have a lot of positive impact on children's development.
+In conclusion, while there are undoubtedly many potential problems that computer games can cause, they mainly <mark>stem from</mark> excessive and uncontrolled gaming. On the other hand, choosing the right games and playing them <mark>in moderation</mark> can have a lot of positive impacts on children's development.
 
 *(309 words, band 6.5-7.0)*
