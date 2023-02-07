@@ -2,7 +2,7 @@ baseURL: "https://neolingo.net/"
 title: NEOLINGO
 paginate: 10
 theme: PaperMod
-publishDir = "docs"
+publishDir: "docs"
 
 enableRobotsTXT: true
 buildDrafts: false
