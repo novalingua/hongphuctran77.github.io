@@ -1,6 +1,6 @@
 ---
 title: Games pros and cons - Sample
-description: Some people say that playing computer games is bad for children in every aspect. Others say that playing computer games can have positive effects on the way children develop. Discuss both views and give your opinion. 
+summary: Some people say that playing computer games is bad for children in every aspect. Others say that playing computer games can have positive effects on the way children develop. Discuss both views and give your opinion. 
 date: 2023-01-29
 slug: computer-games-pros-cons-sample
 cover:

@@ -1,6 +1,6 @@
 ---
 title: Promoting sports and art - Sample
-description: The government should spend money in promoting sport and art in school, rather than sponsoring professional sports and art events in communities. To what extent do you agree or disagree? (Government)
+summary: The government should spend money in promoting sport and art in school, rather than sponsoring professional sports and art events in communities. To what extent do you agree or disagree? (Government)
 date: 2023-01-31
 slug: promoting-sports-and-art-sample
 cover:

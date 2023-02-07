@@ -1,6 +1,6 @@
 ---
 title: "Mandatory volunteering - Sample"
-description: Some people believe that teenagers should be required to do unpaid community work in their free time. This can benefit teenagers and the community as well. To what extent do you agree or disagree?
+summary: Some people believe that teenagers should be required to do unpaid community work in their free time. This can benefit teenagers and the community as well. To what extent do you agree or disagree?
 date: 2023-02-05T23:40:53+07:00
 cover:
     image: feature.jpg

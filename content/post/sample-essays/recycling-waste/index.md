@@ -2,7 +2,7 @@
 title: Lack of recycling and solutions - Sample
 slug: recycling-solutions-sample
 date: 2023-02-03
-description: In some countries, there is not enough recycling of waste materials (e.g. paper, glass and cans). What are the reasons and solutions? (Environment)
+summary: In some countries, there is not enough recycling of waste materials (e.g. paper, glass and cans). What are the reasons and solutions? (Environment)
 cover:
     image: feature.jpg
 categories:

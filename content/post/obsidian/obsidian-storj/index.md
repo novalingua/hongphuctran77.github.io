@@ -1,6 +1,6 @@
 ---
 title: Obsidian + Storj S3
-description: Sử dụng Storj S3 để sao lưu và đồng bộ hóa các flashcards và notes của bạn trong Obsidian.
+summary: Sử dụng Storj S3 để sao lưu và đồng bộ hóa các flashcards và notes của bạn trong Obsidian.
 date: 2023-01-19
 slug: obsidian-storj
 cover:
