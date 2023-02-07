@@ -1,5 +1,5 @@
 ---
-title: Should students study a wide range of subjects?
+title: Should students study a wide range of subjects? - Sample
 date: 2023-02-04
 description: In some countries, secondary schools aim to provide a general education across a range of subjects. In others, children focus on a narrow range of subjects related to a particular career. Which do you think is appropriate in today’s world? (Education)
 cover:
