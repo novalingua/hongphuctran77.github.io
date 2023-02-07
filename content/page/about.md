@@ -2,15 +2,14 @@
 title: About
 description: About NEOLINGO
 date: '2023-02-01'
+showtoc: false
 aliases:
   - about-us
   - about-hugo
   - contact
-license: CC BY-NC-ND
-lastmod: '2023-02-01'
 menu:
     main: 
-        weight: 30
+        weight: 60
         params:
             icon: user
 ---

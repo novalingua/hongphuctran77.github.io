@@ -1,21 +1,19 @@
-<ol class="text-sm text-neutral-500 dark:text-neutral-400 print:hidden">
-  {{ template "crumb" (dict "p1" . "p2" .) }}
-</ol>
-{{ define "crumb" }}
-  {{ if .p1.Parent }}
-    {{ template "crumb" (dict "p1" .p1.Parent "p2" .p2 ) }}
-  {{ else if not .p1.IsHome }}
-    {{ template "crumb" (dict "p1" .p1.Site.Home "p2" .p2 ) }}
-  {{ end }}
-  <li class="inline {{ if or (eq .p1 .p2) (.p1.IsHome) }}hidden{{ end }}">
-    <a
-      class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
-      href="{{ .p1.RelPermalink }}"
-      >{{ if .p1.Title }}
-        {{- .p1.Title -}}
-      {{ else }}
-        {{- .p1.Section -}}
-      {{ end }}</a
-    ><span class="px-1 text-primary-500">/</span>
-  </li>
-{{ end }}
+{{- if (.Param "ShowBreadCrumbs") -}}
+<div class="breadcrumbs">
+    {{- $url := replace .Parent.Permalink (printf "%s" site.BaseURL) "" }}
+    {{- $lang_url := strings.TrimPrefix (printf "%s/" .Lang) $url -}}
+
+    <a href="{{ "" | absLangURL }}">{{ i18n "home" | default "Home" }}</a>
+    {{- $scratch := newScratch }}
+    {{- range $index, $element := split $lang_url "/" }}
+
+    {{- $scratch.Add "path" (printf "%s/" $element )}}
+    {{- $bc_pg := site.GetPage ($scratch.Get "path") -}}
+
+    {{- if (and ($bc_pg) (gt (len . ) 0))}}
+    {{- print "&nbsp;»&nbsp;" | safeHTML -}}<a href="{{ $bc_pg.Permalink }}">{{ $bc_pg.Name }}</a>
+    {{- end }}
+
+    {{- end -}}
+</div>
+{{- end -}}

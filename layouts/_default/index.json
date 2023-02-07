@@ -1,13 +1,7 @@
-{{- $index := slice -}}
-{{- range .Site.Pages -}}
-  {{- $section := .Site.GetPage "section" .Section -}}
-  {{- $index = $index | append (dict
-    "date" (.Date | time.Format (.Site.Language.Params.dateFormat | default ":date_long")) 
-    "title" (.Title | emojify | safeJS)
-    "section" ($section.Title | emojify | safeJS)
-    "summary" (.Summary | emojify | safeJS)
-    "content" (.Plain | emojify | safeJS)
-    "permalink" .RelPermalink
-  ) -}}
+{{- $.Scratch.Add "index" slice -}}
+{{- range site.RegularPages -}}
+    {{- if and (not .Params.searchHidden) (ne .Layout `archives`) (ne .Layout `search`) }}
+    {{- $.Scratch.Add "index" (dict "title" .Title "content" .Plain "permalink" .Permalink "summary" .Summary) -}}
+    {{- end }}
 {{- end -}}
-{{- $index | jsonify -}}
+{{- $.Scratch.Get "index" | jsonify -}}
