@@ -2,7 +2,6 @@ baseURL: "https://hongphuctran77.github.io/"
 title: NEOLINGO
 paginate: 10
 theme: PaperMod
-publishDir: "docs"
 
 enableRobotsTXT: true
 buildDrafts: false
