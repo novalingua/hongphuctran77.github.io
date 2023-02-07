@@ -128,7 +128,7 @@ menu:
     - identifier: search
       name: Search
       url: /search/
-      weight: 20
+      weight: 40
 #    - identifier: tags
 #      name: tags
 #      url: /tags/
