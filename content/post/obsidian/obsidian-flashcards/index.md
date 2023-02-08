@@ -1,6 +1,6 @@
 ---
 title: Obsidian flashcards
-summary: Sử dụng ObsidianMD để tạo flash cards.
+description: Sử dụng ObsidianMD để tạo flash cards.
 date: 2023-01-19
 slug: obsidian-flashcards
 cover:

@@ -1,6 +1,6 @@
 ---
 title: Vocabulary
-summary: Làm cách nào để học từ vựng một cách hiệu quả nhất?
+description: Làm cách nào để học từ vựng một cách hiệu quả nhất?
 date: 2023-01-19
 slug: vocabulary-basic
 cover:

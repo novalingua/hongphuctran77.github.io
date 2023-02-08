@@ -1,6 +1,6 @@
 ---
 title: Harmful effects of tourism - Sample
-summary: Many countries believe that international tourism has harmful effects. Why do they think so? What can be done to change their views?
+description: Many countries believe that international tourism has harmful effects. Why do they think so? What can be done to change their views?
 date: 2023-02-04
 slug: tourism-harmful-effects-sample
 cover:

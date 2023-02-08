@@ -1,6 +1,6 @@
 ---
 title: P.E.E.L. Writing Method
-summary: Phương pháp viết essay đơn giản, hiệu quả.
+description: Phương pháp viết essay đơn giản, hiệu quả.
 date: 2023-02-02
 slug: peel-method
 cover:

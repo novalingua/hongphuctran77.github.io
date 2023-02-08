@@ -1,6 +1,6 @@
 ---
 title: Tenses
-summary: Giải thích chung về các thì trong tiếng Anh.
+description: Giải thích chung về các thì trong tiếng Anh.
 date: 2023-01-18
 slug: tenses-basic
 cover:
