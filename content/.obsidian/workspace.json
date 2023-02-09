@@ -11,8 +11,12 @@
             "id": "b1ad9e6acb1b5e9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "post/sample-essays/advertising-and-conformity-sample/index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "post/sample-essays/advertising-and-conformity-sample/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "post/sample-essays/advertising-and-conformity-sample/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "post/sample-essays/advertising-and-conformity-sample/index.md"
+              }
             }
           }
         ]
@@ -139,5 +147,8 @@
     }
   },
   "active": "b1ad9e6acb1b5e9d",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "post/adverbs-conjunctions-academic-writing/index.md",
+    "post/sample-essays/advertising-and-conformity-sample/index.md"
+  ]
 }
