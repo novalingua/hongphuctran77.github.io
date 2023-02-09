@@ -1,6 +1,6 @@
 ---
 title: Adverbs and conjunctions for academic writing
-summary: Useful and/or advanced adverbs and conjunctions for academic writing style.
+description: Useful and/or advanced adverbs and conjunctions for academic writing style.
 date: 2023-01-18
 slug: adverbs-and-conjunctions-for-academic-writing
 cover:

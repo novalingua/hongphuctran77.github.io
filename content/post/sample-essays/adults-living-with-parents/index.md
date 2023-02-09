@@ -1,6 +1,6 @@
 ---
 title: Adults living with parents - Sample
-summary: In some countries, more and more adults choose to continue to live with their parents after they graduate and have found jobs. Do the advantages of this trend outweigh its disadvantages?
+description: In some countries, more and more adults choose to continue to live with their parents after they graduate and have found jobs. Do the advantages of this trend outweigh its disadvantages?
 date: 2023-02-02
 slug: adults-living-with-parents-sample
 cover:
