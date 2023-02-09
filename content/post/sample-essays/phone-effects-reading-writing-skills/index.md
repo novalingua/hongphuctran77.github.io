@@ -17,6 +17,6 @@ The theory that as <mark>technological literacy</mark> increases, proficiency in
 
 Nevertheless, this theory <mark>loses credibility</mark> somewhat when we look at <mark>the bigger picture</mark>. In many countries, the literacy rate is higher than ever before, and the amount of well-written books and articles have also increased significantly, albeit alongside poorly-written ones. Advances in <mark>user-friendly, accessible technology</mark> have made both learning and teaching easier, and people are becoming more and more well-educated as a result. Consequently, we can conclude that while there are admittedly some downsides to the heavy usage of mobile phones and computers, the overall impact it has on reading and writing skills is mostly positive and beneficial.
 
-To summarise, though some people may think that the widespread adoption of devices like phones and computers negatively impacts reading and writing proficiency, this can <mark>be disproven</mark> when we look at the wider effect digital gadgets has had, especially regarding education.
+To summarize, though some people may think that the widespread adoption of devices like phones and computers negatively impacts reading and writing proficiency, this can <mark>be disproved</mark> when we look at the wider effect digital gadgets has had, especially regarding education.
 
 *(307 words, band 7)*
