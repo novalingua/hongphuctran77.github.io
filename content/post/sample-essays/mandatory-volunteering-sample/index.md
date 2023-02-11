@@ -19,4 +19,4 @@ People come from varying circumstances and backgrounds, and the obligation of un
 
 In conclusion, despite the obvious upsides of community work, we should not make it a requirement but instead, focus on promoting it in order to gain more volunteers.
 
-*(286 words, band 6.5)*
+*(Band 6.5)*

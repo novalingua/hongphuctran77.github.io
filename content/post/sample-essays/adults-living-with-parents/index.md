@@ -22,4 +22,4 @@ Admittedly, there are some <mark>downsides</mark> to living with your parents. A
 
 In conclusion, although the choice to live with one's parents, even when one can afford to move out, comes with certain <mark>complications</mark>, they are far <mark>outweighed by</mark> the potential benefits.
 
-*(363 words, band 6.5)*
+*(Band 6.5)*

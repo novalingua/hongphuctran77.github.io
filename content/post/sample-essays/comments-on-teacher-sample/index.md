@@ -19,4 +19,4 @@ Remarks about teachers frequently lead to a better quality of education. Since n
 
 In conclusion, although there are a number of possible drawbacks to allowing student remarks regarding their teacher, disallowing them outright is undoubtedly detrimental to the educational environment.
 
-*(321 words, band 6.5-7)*
+*(Band 6.5-7)*

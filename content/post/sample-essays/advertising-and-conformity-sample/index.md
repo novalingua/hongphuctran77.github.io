@@ -19,4 +19,4 @@ This is <mark>compounded by</mark> the fact that for the vast majority of people
 
 In conclusion, advertisements play a major role in encouraging the lack of distinctiveness, personalization, and individuality, due to the domination of a few big players and the <mark>duopoly</mark> of online advertisement between Facebook and Google.
 
-*(359 words, band 6.5-7)*
+*(Band 6.5-7)*

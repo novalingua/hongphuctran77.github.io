@@ -19,4 +19,4 @@ For several people, gap years would <mark>equate to</mark> wasted time. Firstly,
 
 In conclusion, gap years can be beneficial, but they also have <mark>a plethora of</mark> possible downsides that each person should consider <mark>prior to</mark> making their decision.
 
-*(388 words, band 6.5-7)*
+*(Band 6.5-7)*

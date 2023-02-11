@@ -12,7 +12,7 @@ categories:
     - sample
 ---
 
-The government budget and how to best utilize it has always been a <mark>contentious issue</mark> - because it is of a limited nature, it is crucial that we spend the budget as effectively as possible. Hence, when it comes to promoting sports and art, there are two prevalent school of thoughts: promoting them in school, and promoting them in communities.
+The government budget and how to best utilize it has always been a <mark>contentious issue</mark> - because it is of a limited nature, it is crucial that we spend the budget as effectively as possible. Hence, when it comes to promoting sports and art, there are two prevalent school of thoughts: promoting them in school, and promoting them in communities. Yet, I do not believe that we should have to choose.
 
 Schools are great places to foster sports and art, due to their <mark>inherent</mark> design as places of education. Promoting these extra-curriculum activities within an <mark>educational setting</mark> allows society to <mark>cultivate</mark> talents from a young age. What's more, it <mark>enriches</mark> the lives of students, who would be given the opportunity to follow their interests and passions, and improve upon them. Indeed, one would <mark>be hard pressed to</mark> find many flaws or downside to this approach. Everyone wins here - from students who are given the chance to develop themselves and to society in general, as we can better find and nurture talents.
 
@@ -20,4 +20,4 @@ However, one should not <mark>overlook</mark> the effectiveness of promoting spo
 
 In conclusion, sports and art promotion is an important <mark>endeavour</mark> for any government around the world, and choosing between school or community promotion can be tough. That said, one should realize that it is not an <mark>either-or issue</mark>, and that we should <mark>strive to</mark> provide everyone, in every setting, with the opportunity to grow and advance not only their gifts but also their interests.
 
-*(353 words, band 7-7.5)*
+*(Band 7-7.5)*
