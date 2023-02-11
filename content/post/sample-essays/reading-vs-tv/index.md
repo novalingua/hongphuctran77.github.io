@@ -1,6 +1,7 @@
 ---
 title: Books vs TV - Sample
 summary: Some people think reading stories in books is better than watching TV or playing computer games for children. To what extent do you agree or disagree? (Education)
+description: Some people think reading stories in books is better than watching TV or playing computer games for children. To what extent do you agree or disagree? (Education)
 date: 2023-01-30
 slug: books-vs-tv-sample
 cover:

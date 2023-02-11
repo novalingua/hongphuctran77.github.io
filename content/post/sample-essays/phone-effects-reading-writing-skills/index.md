@@ -1,6 +1,7 @@
 ---
 title: Phones and computers' effect on reading and writing skills - Sample
 description: Some people think that using mobile phones and computers has a negative effect on young people's reading and writing skills. To what extent do you agree or disagree?
+summary: Some people think that using mobile phones and computers has a negative effect on young people's reading and writing skills. To what extent do you agree or disagree?
 date: 2023-02-01
 slug: phone-effects-reading-writing
 cover:

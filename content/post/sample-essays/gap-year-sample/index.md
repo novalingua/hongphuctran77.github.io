@@ -1,6 +1,7 @@
 ---
 title: "Gap year - Sample"
 summary: In some countries many young people choose to work or travel for a year between finishing high school and starting university studies. Discuss the advantages and disadvantages. (Social)
+description: In some countries many young people choose to work or travel for a year between finishing high school and starting university studies. Discuss the advantages and disadvantages. (Social)
 cover:
    image: feature.jpg
 date: 2023-02-07T16:21:29+07:00

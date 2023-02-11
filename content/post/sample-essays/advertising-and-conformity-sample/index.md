@@ -1,5 +1,6 @@
 ---
 title: "Advertising and Conformity - Sample"
+summary: Advertising discourages people from being different individuals by making us all want to do the same and look the same. To what extent do you agree or disagree?
 description: Advertising discourages people from being different individuals by making us all want to do the same and look the same. To what extent do you agree or disagree?
 cover:
     image: https://images.unsplash.com/photo-1547452912-b43d586aed93?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
