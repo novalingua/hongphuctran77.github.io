@@ -24,7 +24,7 @@ So, this is how I did it, through (a lot of) trials and errors.
 
 ### Wordpress
 
-![wordpress](wordpress.png#center)
+![Wordpress](wordpress.png#center)
 
 When I first had the idea of a blog, the first tool I tried was Wordpress. After all, it is the most popular CMS on the planet, with about 43% of **all websites on the internet** being built on Wordpress. Let that sink in for a moment - almost ***half*** of all the sites on the internet is built using this single tool. That alone should give you an idea about the capabilities and extendability of Wordpress.
 
@@ -36,7 +36,7 @@ Overall, Wordpress is a powerful tool but for simple blogs, it's slow, bloated, 
 
 ### Ghost
 
-![ghost](ghost.png#center)
+![Ghost CMS](ghost.png#center)
 
 Ghost is another popular CMS. It's fast, simple, and intuitive. If you put a caching layer on top of it, like a CDN for instance, it should be quick enough for most people.
 
@@ -84,7 +84,7 @@ The answer (for me personally) is no. After some thinking, I realized that all I
 
 ![Hugo](hugo.jpg#center)
 
-After some research, I chose Hugo as my static site generator, due to its speed and simplicity.
+After some research, I chose [Hugo](https://gohugo.io/) as my static site generator, due to its speed and simplicity.
 
 What I like about Hugo:
 1. All my content is stored and categorized neatly inside folders. All I need is a text editor to write and edit blog posts.
@@ -101,13 +101,15 @@ I use a Github repository to store all my content, and a local version of that r
 1. Everything is backed up somewhere. I trust Github to not lose my files more than I trust myself.
 2. I can easily revert to a previous version if I mess up the code somehow.
 
-For editing, I use VSCode. It's fast, and git is integrated, so I don't have to run `git commit`, `git add`, and `git push` every time I change something. For someone with very little experience with coding/programming such as myself, it's just a more user-friendly way to use git. I write in Markdown, so I really don't need or want an editor bloated with toolbars and font styles and whatnot. If you don't like using VSCode and just want an editor focused on writing content, Obsidian is another excellent choice.
+For editing, I use [VSCode](https://code.visualstudio.com/). It's fast, and git is integrated, so I don't have to run `git commit`, `git add`, and `git push` every time I change something. For someone with very little experience with coding/programming such as myself, it's just a more user-friendly way to use git. I write in Markdown, so I really don't need or want an editor bloated with toolbars and font styles and whatnot. If you don't like using VSCode and just want an editor focused on writing content, [Obsidian](https://obsidian.md/) is another excellent choice.
 
 ### Hosting provider
 
-Static sites like Hugo is extremely lightweight so serving them doesn't take much computing resources at all. Thus, there are many free options out there for hosting static websites: Github Pages, Cloudflare Pages, Netlify, Vercel, Firebase, etc. These often have very generous resource limits for free plans, enough for all but very heavy users. If your static site consistently hits these limits, though, you can probably monetize it somehow, so hosting costs shouldn't be a problem in that case. As an example, Netlify's free tier includes 100GB of bandwidth monthly, and this blog is currently about 40MB in size. To hit Netlify's free tier limit, my site would have to be served in its entirety to 2,500 visitors each month, with each visitor clicking on *every single page*. In most cases, this number of visitor would be considerably higher, since not everyone would visit all the pages on my site.
+Static sites like Hugo is extremely lightweight so serving them doesn't take much computing resources at all. Thus, there are many free options out there for hosting static websites: [Github Pages](https://pages.github.com/), [Cloudflare Pages](https://pages.cloudflare.com/), [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/), [Firebase](https://firebase.google.com/), etc. These often have very generous resource limits for free plans, enough for all but very heavy users. If your static site consistently hits these limits, though, you can probably monetize it somehow, so hosting costs shouldn't be a problem in that case. As an example, Netlify's free tier includes 100GB of bandwidth monthly, and this blog is currently about 40MB in size. To hit Netlify's free tier limit, NEOLINGO would have to be served in its entirety to 2,500 visitors each month, with each visitor clicking on *every single page*. In most cases, the number of monthly visitors would have to be considerably higher to hit this limit, since not everyone would visit all the pages on my site.
 
-Personally, I've tested 3 providers for my site: Netlify, Github Pages, and Cloudflare Pages. After extensive experimentation, I've found that Github Pages is the fastest provider of the three, so that's what I went with. In my opinion, though, deploying your site on Netlify and Cloudflare Pages are considerably easier since you don't have to deal with `git` at all, so I'm leaving the instructions here:
+Personally, I've tested 3 providers: Netlify, Github Pages, and Cloudflare Pages. After extensive experimentation, I've found that Github Pages is the fastest provider of the three, so that's what I went with. 
+
+In my opinion, though, deploying your site on Netlify or Cloudflare Pages is considerably easier since you don't have to deal with `git` at all, and they are indeed good enough for most people (under 2 seconds to load the whole site), so I'm leaving the instructions here:
 1. Register an account with Netlify/Cloudflare
 2. Create a Netlify/Cloudflare Pages project
 3. Install `netlify-cli`/`wrangler`
