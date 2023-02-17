@@ -2,6 +2,9 @@
 title: "Developing paragraphs"
 summary: Làm thế nào để phát triển ý trong đoạn văn?
 description: Làm thế nào để phát triển ý trong đoạn văn?
+categories:
+    - writing
+    - guides
 cover:
     image: https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
 date: 2023-02-12T19:02:05+07:00

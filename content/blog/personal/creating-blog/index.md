@@ -3,6 +3,9 @@ title: "Creating a blog"
 summary: How and why I started my own blog, Hugo, and free static site hosting.
 description: How and why I started my own blog, Hugo, and free static site hosting.
 date: 2023-02-15T01:00:48+07:00
+categories:
+    - personal
+    - tech
 cover:
     image: https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
 draft: false
