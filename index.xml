@@ -12,10 +12,10 @@
     <lastBuildDate>Wed, 15 Feb 2023 18:57:54 +0700</lastBuildDate><atom:link href="https://hongphuctran77.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learning languages through media consumption</title>
-      <link>https://hongphuctran77.github.io/blog/personal/learning-through-media/</link>
+      <link>https://hongphuctran77.github.io/blog/guides/learning-through-media/</link>
       <pubDate>Wed, 15 Feb 2023 18:57:54 +0700</pubDate>
       
-      <guid>https://hongphuctran77.github.io/blog/personal/learning-through-media/</guid>
+      <guid>https://hongphuctran77.github.io/blog/guides/learning-through-media/</guid>
       <description>Học ngoại ngữ trong lúc giải trí.</description>
     </item>
     
@@ -174,19 +174,19 @@
     
     <item>
       <title>Obsidian &#43; Storj S3</title>
-      <link>https://hongphuctran77.github.io/blog/obsidian/obsidian-storj/</link>
+      <link>https://hongphuctran77.github.io/blog/guides/obsidian/obsidian-storj/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hongphuctran77.github.io/blog/obsidian/obsidian-storj/</guid>
+      <guid>https://hongphuctran77.github.io/blog/guides/obsidian/obsidian-storj/</guid>
       <description>Sử dụng Storj S3 để sao lưu và đồng bộ hóa các flashcards và notes của bạn trong Obsidian.</description>
     </item>
     
     <item>
       <title>Obsidian flashcards</title>
-      <link>https://hongphuctran77.github.io/blog/obsidian/obsidian-flashcards/</link>
+      <link>https://hongphuctran77.github.io/blog/guides/obsidian/obsidian-flashcards/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hongphuctran77.github.io/blog/obsidian/obsidian-flashcards/</guid>
+      <guid>https://hongphuctran77.github.io/blog/guides/obsidian/obsidian-flashcards/</guid>
       <description>Sử dụng ObsidianMD để tạo flash cards.</description>
     </item>
     
@@ -226,16 +226,6 @@
       <description>Bạn không biết nên học tiếng Anh từ đâu?</description>
     </item>
     
-    
-    <item>
-      <title>Hello, World!</title>
-      <link>https://hongphuctran77.github.io/posts/hello-world/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hongphuctran77.github.io/posts/hello-world/</guid>
-      <description>Hello World! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non lorem diam. Quisque vulputate nibh sodales eros pretium tincidunt. Aenean porttitor efficitur convallis. Nulla sagittis finibus convallis. Phasellus in fermentum quam, eu egestas tortor. Maecenas ac mollis leo. Integer maximus eu nisl vel sagittis.
-Suspendisse facilisis, mi ac scelerisque interdum, ligula ex imperdiet felis, a posuere eros justo nec sem. Nullam laoreet accumsan metus, sit amet tincidunt orci egestas nec.</description>
-    </item>
     
     
   </channel>
